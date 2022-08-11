@@ -7,7 +7,7 @@ Yukicoder는 일본의 Problem Solving 및 알고리즘 학습을 위한 사이�
 매주 유저가 만든 대회가 개최되며, 해당 문제를 풀어볼 수 있습니다.
 사이트의 주소는 [https://yukicoder.me/](https://yukicoder.me/) 입니다.
 
-##Yukicoder를 실제로 사용하려면 어떻게 해야하나요?
+## Yukicoder를 실제로 사용하려면 어떻게 해야하나요?
 
 일반 로그인 및, Github, Twitter, Google을 통한 로그인을 지원합니다.
 신규 가입을 위해서는, 먼저 오른쪽 위에 있는 구름 모양 버튼을 클릭합니다. 
