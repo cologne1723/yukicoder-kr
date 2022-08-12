@@ -17,7 +17,7 @@
 - Yukicoder contest 341: 1915 1916 1917 1918 1919 1920
 - Yukicoder contest 340: 1908 1909 1910 1911 1912 1913 1914
 - Yukicoder contest 339: 1903 1904 1905 1906 1907
-- Yukicoder contest 338: [1893](problems/1893.md) [1894](problems/1894.md) [1895](problems/1895.md) [1896](problems/1896.md) [1897](problems/1897.md) [1898](problems/1898.md) [1899](problems/1899.md) [1900](problems/1900.md)
+- Yukicoder contest 338: 1893 1894 1895 1896 1897 1898 1899 1900
 - Yukicoder contest 337: [1883](problems/1883.md) [1884](problems/1884.md) [1885](problems/1885.md) [1886](problems/1886.md) [1887](problems/1887.md) [1888](problems/1888.md) [1889](problems/1889.md)
 - Yukicoder contest 336: [1877](problems/1877.md) [1878](problems/1878.md) [1879](problems/1879.md) [1880](problems/1880.md) [1881](problems/1881.md)
 - Yukicoder contest 335: [1868](problems/1868.md) [1869](problems/1869.md) [1870](problems/1870.md) [1871](problems/1871.md) [1872](problems/1872.md) [1873](problems/1873.md) [1874](problems/1874.md) [1875](problems/1875.md)
